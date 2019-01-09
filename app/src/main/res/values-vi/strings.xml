@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bizblocks.io -->
+    <!-- Dev.sony476 -->
+    <!-- 2018-12-13 -->
+    <string name="app_name">KaiserWallet2</string>
+    <string name="app_name_ble_reader">KaiserWallet2 (BLE)</string>
+    <!-- Push Service -->
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">News</string>
+    <!-- FingerPrint -->
+    <string name="application_name">Hộp thoại in ngón tay</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="use_password">Sử dụng mật khẩu</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="ok">OK</string>
+    <string name="password">Mật khẩu</string>
+    <string name="fingerprint_description">Xác nhận vân tay để tiếp tục</string>
+    <string name="fingerprint_hint">Cảm biến chạm</string>
+    <string name="password_description">Nhập mật khẩu cửa hàng của bạn để tiếp tục</string>
+    <string name="purchase_not_invalidated">Giao dịch mua không bị vô hiệu</string>
+    <string name="fingerprint_not_recognized">Vân tay không được nhận dạng. Thử lại</string>
+    <string name="fingerprint_success">Đã nhận dạng vân tay</string>
+    <string name="new_fingerprint_enrolled_description">Một vân tay mới đã được thêm vào thiết bị này, vì vậy mật khẩu của bạn là bắt buộc.</string>
+    <string name="use_fingerprint_in_future">Sử dụng vân tay trong tương lai</string>
+    <string name="use_fingerprint_to_authenticate_key">use_fingerprint_to_authenticate_key</string>
+    <!-- App Message -->
+    <string name="app_message_ok">Chọn</string>
+    <string name="app_message_cancel">Hủy</string>
+    <string name="app_message_00001">Mã QR đã được tạo</string>
+    <string name="app_message_00002">Hãy lưu vào clipboard</string>
+    <string name="app_message_00003">Đang thông tin với máy chủ</string>
+    <string name="app_message_00004">Thông tin với máy chủ đã kết thúc</string>
+    <string name="app_message_00005">Chức năng trình bảo vệ màn hình không được cài đặt. Vui lòng chuyển đến Cài đặt -> Bảo mật -> Nhận dạng vân tay để cài đặt nhận dạng vân tay.</string>
+    <string name="app_message_00006">Bạn có chắc chắn muốn thoát khỏi Kaiser Wallet không?</string>
+    <string name="app_message_00007">Lỗi dữ liệu chữ ký</string>
+    <string name="app_message_00008">Có vài chữ được nhập không chính xác. Vui lòng thử lại.</string>
+    <string name="app_message_00009">Không có ví etherium. Vui lòng chọn sau khi tạo</string>
+    <string name="app_message_00010">Không có dấu vân tay đăng ký. Vui lòng đăng ký vân tay của bạn trước</string>
+    <string name="app_message_00011">Vui lòng tạo nhận dạng vân tay cho Kaiser Wallet. Nếu bạn nhấn nút Hủy, Kaiser Wallet sẽ kết thúc.</string>
+    <string name="app_message_00012">Thời gian đã hết. Vui lòng chạy lại chương trình</string>
+    <string name="app_message_00013">Nếu bạn hủy nhận dạng vân tay, bạn sẽ không thể sử dụng ứng dụng. Chương trình sẽ kết thúc.</string>
+    <string name="app_message_00014">Đây là thẻ không được chấp nhận. Mã lỗi</string>
+    <string name="app_message_00015">Có một coin trong ví của bạn.</string>
+    <string name="app_message_00016">Thông tin không tồn tại.</string>
+    <string name="app_message_00017">Mã PIN không khớp. Có thể thử lại %d lần.</string>
+    <string name="app_message_00018">Danh sách từ không khớp. Có thể thử lại %d lần.</string>
+    <string name="app_message_00019">PIN đã sai hơn 5 lần.</string>
+    <string name="app_message_00020">Danh sách từ đã sai hơn 5 lần.</string>
+    <string name="app_message_00021">Đây là thẻ không lên chương trình. Vui lòng liên hệ với chúng tôi bằng e-mail(cs@bizblocks.io).</string>
+    <string name="app_message_00022">Thẻ bạn vừa gắn không phải là thẻ Kaiser.</string>
+    <string name="app_message_00023">Place the card correctly in the NFC antenna position</string>
+    <string name="app_message_00024">Bắt đầu quá trình tạo KEY. Chạm lại vào thẻ</string>
+    <string name="app_message_00025">Không nhận dạng được mã QR.</string>
+    <string name="app_message_00026">Vui lòng chọn hình ảnh chứa mã QR.</string>
+    <string name="app_message_00027">Vui lòng gắn thẻ bạn đã cấu hình thông tin ban đầu cho ví. Bạn đã gắn một thẻ khác.</string>
+    <string name="app_message_00028">Gắn thẻ thêm một lần nữa</string>
+    <string name="app_message_00029">Tạo ví không thành công.</string>
+    <string name="app_message_00030">Bạn đã tạo ví thành công.</string>
+    <string name="app_message_00031">Bạn đã tạo KEY thành công.</string>
+    <string name="app_message_00032">Kết thúc</string>
+    <string name="app_message_00033">Thoát khỏi Kaiser Wallet để áp dụng KEY đã thay đổi.</string>
+    <string name="app_message_00034">Bạn đã chuẩn bị khôi phục KEY một cách thành công.</string>
+    <string name="app_message_00035">Quá trình khôi phục KEY đã hoàn tất. Thoát khỏi ứng dụng. Vui lòng thử lại.</string>
+    <string name="app_message_00036">Xóa thành công ví đã chọn.</string>
+    <string name="app_message_00037">Thay đổi thành công tông tin PIN.</string>
+    <string name="app_message_00038">Thông tin PIN đã được khởi tạo.</string>
+    <string name="app_message_00039">Bạn đã hoàn tất việc tạo ví.</string>
+    <string name="app_message_00040">Bạn đã hoàn tất chữ ký</string>
+    <string name="app_message_00041">Chữ ký không thành công.</string>
+    <string name="app_message_00042">Chuyển không thành công.</string>
+    <string name="app_message_00043">Quá trình chuyển đã hoàn tất.</string>
+    <string name="app_message_00044">Quá trình xác nhận đã hoàn tất.</string>
+    <string name="app_message_00045">Xác nhận ví không thành công.</string>
+    <string name="app_message_00046">Giao dịch mới đã phát sinh.</string>
+    <string name="app_message_00047">Hướng dẫn cập nhật Kaiser Wallet</string>
+    <string name="app_message_00048">Lối tắt cập nhật</string>
+    <string name="app_message_00049">Vui lòng sử dụng sau khi cập nhật</string>
+    <string name="app_message_00050">Đang truyền thông tin. Vui lòng đợi.</string>
+    <string name="app_message_00051">Nhận dạng vân tay đang hoạt động nhưng không có vân tay nào được đăng ký. Chấm dứt chương trình.</string>
+    <string name="app_message_00052">Hợp đồng đã chọn đã bị xóa.</string>
+    <string name="app_message_00053">Hợp đồng đã chọn không bị xóa.</string>
+    <string name="app_message_00054">Định dạng địa chỉ hợp đồng không chính xác.</string>
+    <string name="app_message_00055">Ví Ethereum không tồn tại. Vui lòng tạo địa chỉ Wallet Ethereum, trước tiên.</string>
+    <string name="app_message_00056">Địa chỉ ví tiền tồn tại hoặc đã xảy ra lỗi.</string>
+    <string name="app_message_00057">Hợp đồng không tồn tại hoặc định dạng sai. Vui lòng thêm lại sau khi xác nhận.</string>
+    <string name="app_message_00058">Quy trình tạo khóa sẽ bắt đầu lại. \nVui lòng chạm lại vào thẻ.</string>
+    <string name="app_message_00059">Tạo hoặc chọn Wallet</string>
+    <string name="app_message_00060">Connect</string>
+    <string name="app_message_00061">Vui lòng nhập 9 số được ghi trong khu vực mã vạch ở dưới cùng của gói. \n(Vui lòng bật nguồn gói trước.)</string>
+    <string name="app_message_00062">Sau khi nhận được xác thực từ KYC, hãy thử lại. Để tiếp tục, hãy chuyển đến menu và nhấp vào\'Xác nhậ\'</string>
+    <string name="app_message_00063">Vui lòng truy cập e-mail được tạo bởi xác thực KYC và tiếp tục với\'xác thực e-mail \' và thử lại.</string>
+    <string name="app_message_00064">CS@BizBlocks.io Vui lòng liên hệ với chúng tôi</string>
+    <string name="app_message_00065">Vui lòng nhập chính xác số đầu đọc.</string>
+    <string name="app_message_00066">Vui lòng tạo KaiserCoin Wallet và thử lại.</string>
+    <string name="app_message_00067">test</string>
+    <string name="app_message_00068">Số pin được tạo dưới dạng \'000000\' khi sử dụng lần đầu. Sau đó, bạn có thể thay đổi các chân trên menu chính.</string>
+    <string name="app_message_00069">Chú ý) Bạn không thể sử dụng thẻ nữa nếu bạn nhập sai số pin 5 lần liên tục. Bạn có thể thay đổi thẻ với chi phí bổ sung.</string>
+    <string name="app_message_00070">Vui lòng kiểm tra \'Cho phép\' trên quyền liên hệ.</string>
+    <!-- NFC Message -->
+    <string name="app_message_nfc_00001">Định cấu hình thông tin ví tiền từ thẻ.</string>
+    <string name="app_message_nfc_00002">Ví của bạn đang được đăng ký. Gắn thẻ của bạn.</string>
+    <string name="app_message_nfc_00003">Chữ ký số đang được tiến hành. Gắn thẻ của bạn.</string>
+    <string name="app_message_nfc_00004">Gắn thẻ của bạn.</string>
+    <!-- BLE/NFC Reader -->
+    <string name="app_message_ble_reader_00001">BLE/NFC Người đọc</string>
+    <string name="app_message_ble_reader_00002">nhập thiết bị của bạn S/N</string>
+    <string name="app_message_ble_reader_00003">Không kết nối thiết bị Bluetooth với thiết bị đọc trên hệ điều hành Android. Bạn phải nhập S/N để kết nối.</string>
+    <!-- Permission -->
+    <string name="app_permission_setting">Setting</string>
+    <string name="app_permission_title_00000">Camera</string>
+    <string name="app_permission_title_00001">Picture</string>
+    <string name="app_permission_message_00000">Please allow\'Camer\' permissions directly in Settings.</string>
+    <string name="app_permission_message_00001">Please allow\'Photo\' permission directly in Settings.</string>
+</resources>

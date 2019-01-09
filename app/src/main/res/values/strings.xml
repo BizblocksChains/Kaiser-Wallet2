@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bizblocks.io -->
+    <!-- Dev.sony476 -->
+    <!-- 2018-12-13 -->
+    <string name="app_name">KaiserWallet2</string>
+    <string name="app_name_ble_reader">KaiserWallet2 (BLE)</string>
+    <!-- Push Service -->
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">News</string>
+    <!-- FingerPrint -->
+    <string name="application_name">Finger print Dialog</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="use_password">Use password</string>
+    <string name="sign_in">Login</string>
+    <string name="ok">OK</string>
+    <string name="password">Password</string>
+    <string name="fingerprint_description">Confirm fingerprint to continue</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="password_description">Enter your stored password to continue</string>
+    <string name="purchase_not_invalidated">Purchase not invalidated</string>
+    <string name="fingerprint_not_recognized">Fingerprint not recognized. Try again</string>
+    <string name="fingerprint_success">Fingerprint recognized</string>
+    <string name="new_fingerprint_enrolled_description">A new fingerprint was added to this device, so your password is required.</string>
+    <string name="use_fingerprint_in_future">Use fingerprint in the future</string>
+    <string name="use_fingerprint_to_authenticate_key">use_fingerprint_to_authenticate_key</string>
+    <!-- App Message -->
+    <string name="app_message_ok">Ok</string>
+    <string name="app_message_cancel">Cancel</string>
+    <string name="app_message_00001">Created QRCode.</string>
+    <string name="app_message_00002">Saved at clipboard.</string>
+    <string name="app_message_00003">Communicating with the server</string>
+    <string name="app_message_00004">Finished communicating with the server.</string>
+    <string name="app_message_00005">Screen protection is not set up. setting->security->Please go to the fingerprint recognition and set the fingerprint recognition.</string>
+    <string name="app_message_00006">Do you want to terminate Kaiser Wallet?</string>
+    <string name="app_message_00007">Signature Data Error</string>
+    <string name="app_message_00008">There is incorrectly entered words. Please enter again.</string>
+    <string name="app_message_00009">There is no Ethereum wallet. Please select after creation.</string>
+    <string name="app_message_00010">No registered fingerprint. Please register the fingerprint first.</string>
+    <string name="app_message_00011">Please recognize the fingerprint to execute Kaiser Wallet. Kaiser Wallet is terminated  if cancel.</string>
+    <string name="app_message_00012">Overtime. Please run the program again.</string>
+    <string name="app_message_00013">You cannot use the App. if you cancel the fingerprint recognition.  Program is terminated.</string>
+    <string name="app_message_00014">Card cannot use. Error Code</string>
+    <string name="app_message_00015">There is coin in the wallet.</string>
+    <string name="app_message_00016">Information does not exist.</string>
+    <string name="app_message_00017">Pin number doesn’t match. Retry is possible %d times.</string>
+    <string name="app_message_00018">Wordlist doesn’t match. Retry is possible %d times.</string>
+    <string name="app_message_00019">Pins are wrong more than 5 times.</string>
+    <string name="app_message_00020">Wordlist is wrong more than 5 times.</string>
+    <string name="app_message_00021">This is a card which the program isn’t uploaded. Please contact us by e-mail(cs@bizblocks.io).</string>
+    <string name="app_message_00022">It is not the Kaiser Card you did tag.</string>
+    <string name="app_message_00023">Place the card correctly in the NFC antenna position.</string>
+    <string name="app_message_00024">Start key generation procedure. Please touch the card again.</string>
+    <string name="app_message_00025">Cannot recognize QRCODE</string>
+    <string name="app_message_00026">Please select the image QRCODE included.</string>
+    <string name="app_message_00027">Please tag the card initially registered wallet information. You tagged a different card.</string>
+    <string name="app_message_00028">Please tag the card one more.</string>
+    <string name="app_message_00029">You failed the wallet generation.</string>
+    <string name="app_message_00030">You generated the wallet successfully.</string>
+    <string name="app_message_00031">You generated the key successfully.</string>
+    <string name="app_message_00032">The end</string>
+    <string name="app_message_00033">Terminate Kaiser Wallet to apply the changed key.</string>
+    <string name="app_message_00034">Prepared to restore the key successfully</string>
+    <string name="app_message_00035">Completed the key restoration. Finish the App. Try again.</string>
+    <string name="app_message_00036">Deleted the selected wallet.</string>
+    <string name="app_message_00037">Changed the pin information</string>
+    <string name="app_message_00038">Initialized the pin information</string>
+    <string name="app_message_00039">Completed making wallet</string>
+    <string name="app_message_00040">Completed signing</string>
+    <string name="app_message_00041">Failed in signing</string>
+    <string name="app_message_00042">Failed in transmission</string>
+    <string name="app_message_00043">Completed the transfer</string>
+    <string name="app_message_00044">Completed authentication</string>
+    <string name="app_message_00045">Failed wallet authentication</string>
+    <string name="app_message_00046">New transaction occurred.</string>
+    <string name="app_message_00047">Notice about Kaiser Wallet update</string>
+    <string name="app_message_00048">Update shortcut</string>
+    <string name="app_message_00049">Please use after update</string>
+    <string name="app_message_00050">The line is busy. Please wait for a moment.</string>
+    <string name="app_message_00051">No fingerprint is registered. Terminate the program.</string>
+    <string name="app_message_00052">The selected contract was deleted.</string>
+    <string name="app_message_00053">The selected contract was not deleted.</string>
+    <string name="app_message_00054">The format of contract address is not correct.</string>
+    <string name="app_message_00055">The Ethereum Wallet does not exist. Please generate the Ethereum Wallet address, first.</string>
+    <string name="app_message_00056">The wallet address exists or an error has occurred.</string>
+    <string name="app_message_00057">The contract does not exist or the format is wrong. Please add it again after making a confirmation.</string>
+    <string name="app_message_00058">The procedure for key generation starts again.\Please touch the card again.</string>
+    <string name="app_message_00059">Create or select Wallet</string>
+    <string name="app_message_00060">Connect</string>
+    <string name="app_message_00061">Please enter the 9 numbers recorded in the barcode area at the bottom of the back of the Bluetooth NFC reader.\n(Please turn on the Bluetooth NFC reader power in advance.)</string>
+    <string name="app_message_00062">Please try again after KYC verification\n(You can proceed through \'Verification\' on the upper right menu).</string>
+    <string name="app_message_00063">Please try again after \'Email verification\' logging in email entered on \'KYCVerification\'.</string>
+    <string name="app_message_00064">Please contact with CS@Bizblocks.io.</string>
+    <string name="app_message_00065">Please enter precisely the 9 digit numbers in the back of Bluetooth NFC reader.</string>
+    <string name="app_message_00066">Please try again after making KaiserCoin Wallet.</string>
+    <string name="app_message_00067">test</string>
+    <string name="app_message_00068">Pin numbers are created as \'000000\' at the first use. After that, you can change the pins on the main menu.</string>
+    <string name="app_message_00069">Caution) You can\'t use the card any more if you enter the wrong pin numbers 5 times continuously. You can change the card at additional cost.</string>
+    <string name="app_message_00070">Please check \'Allow\' on the contact permission.</string>
+    <!-- NFC Message -->
+    <string name="app_message_nfc_00001">Configure wallet information from the card.</string>
+    <string name="app_message_nfc_00002">Your wallet is being registered. Tag your card.</string>
+    <string name="app_message_nfc_00003">Digital signature is in progress. Tag your card.</string>
+    <string name="app_message_nfc_00004">Tag your card.</string>
+    <!-- BLE/NFC Reader -->
+    <string name="app_message_ble_reader_00001">BLE/NFC Reader</string>
+    <string name="app_message_ble_reader_00002">input your device S/N</string>
+    <string name="app_message_ble_reader_00003">Do not connect Bluetooth to Reader devices on Android OS. You must enter S/N to connect.</string>
+    <!-- Permission -->
+    <string name="app_permission_setting">Setting</string>
+    <string name="app_permission_title_00000">Camera</string>
+    <string name="app_permission_title_00001">Picture</string>
+    <string name="app_permission_message_00000">Please allow\'Camer\' permissions directly in Settings.</string>
+    <string name="app_permission_message_00001">Please allow\'Photo\' permission directly in Settings.</string>
+</resources>

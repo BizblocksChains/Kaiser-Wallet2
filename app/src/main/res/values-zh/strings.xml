@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bizblocks.io -->
+    <!-- Dev.sony476 -->
+    <!-- 2018-12-13 -->
+    <string name="app_name">KaiserWallet2</string>
+    <string name="app_name_ble_reader">KaiserWallet2 (BLE)</string>
+    <!-- Push Service -->
+    <string name="msg_subscribed">话题订阅</string>
+    <string name="msg_token_fmt">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">新闻</string>
+    <!-- FingerPrint -->
+    <string name="application_name">指纹对话框</string>
+    <string name="action_settings">设置</string>
+    <string name="cancel">取消</string>
+    <string name="use_password">使用密码输入</string>
+    <string name="sign_in">登录</string>
+    <string name="ok">确认</string>
+    <string name="password">密码</string>
+    <string name="fingerprint_description">确认指纹并继续</string>
+    <string name="fingerprint_hint">触摸传感器</string>
+    <string name="password_description">输入商城密码并继续</string>
+    <string name="purchase_not_invalidated">购买无效</string>
+    <string name="fingerprint_not_recognized">指纹无法识别，请重试</string>
+    <string name="fingerprint_success">指纹已识别</string>
+    <string name="new_fingerprint_enrolled_description">当前设备添加了新指纹，请输入密码</string>
+    <string name="use_fingerprint_in_future">今后使用指纹识别</string>
+    <string name="use_fingerprint_to_authenticate_key">use_fingerprint_to_authenticate_key</string>
+    <!-- App Message -->
+    <string name="app_message_ok">确认</string>
+    <string name="app_message_cancel">取消</string>
+    <string name="app_message_00001">生成QRCode</string>
+    <string name="app_message_00002">保存在剪贴板</string>
+    <string name="app_message_00003">与服务器通信中。</string>
+    <string name="app_message_00004">已完成与服务器的通信。</string>
+    <string name="app_message_00005">未设置桌面保护功能。请在设置->安全->指纹识别，设置指纹识别。</string>
+    <string name="app_message_00006">您确定要结束KaiserWallet吗？</string>
+    <string name="app_message_00007">签名资料错误</string>
+    <string name="app_message_00008">存在输入错误的单词，请重新输入。</string>
+    <string name="app_message_00009">没有以太坊钱包，请在生成后进行选择。</string>
+    <string name="app_message_00010">没有已登录指纹。请先进行指纹登录。</string>
+    <string name="app_message_00011">为运行KaiserWallet，请进行指纹识别。取消后，将终止KaiserWallet 。</string>
+    <string name="app_message_00012">已超时。请重新运行程序。</string>
+    <string name="app_message_00013">若取消指纹识别，将无法使用APP。 程序结束。</string>
+    <string name="app_message_00014">无法使用的卡片。错误代码</string>
+    <string name="app_message_00015">钱包中已有该coin。</string>
+    <string name="app_message_00016">没有相关信息。</string>
+    <string name="app_message_00017">PIN码不一致。可重试%d次。</string>
+    <string name="app_message_00018">与Word list不一致。 可重试%d次。</string>
+    <string name="app_message_00019">PIN码输入错误已超过5次。</string>
+    <string name="app_message_00020">Word-list输入错误已超过5次。</string>
+    <string name="app_message_00021">卡片未载入程序。请通过邮件(cs@bizblocks.io) 咨询。</string>
+    <string name="app_message_00022">您所Tag的卡片，不是Kaiser Wallet。</string>
+    <string name="app_message_00023">请将卡片对准NFC天线的位置。</string>
+    <string name="app_message_00024">开始密钥生成流程，请重新Tag卡片。</string>
+    <string name="app_message_00025">无法识别二维码。</string>
+    <string name="app_message_00026">请选择包含二维码的图像。</string>
+    <string name="app_message_00027">请Tag首次创建钱包信息的卡片。请用其他卡片tag。</string>
+    <string name="app_message_00028">请重新Tag卡片</string>
+    <string name="app_message_00029">钱包生成失败</string>
+    <string name="app_message_00030">钱包生成已成功</string>
+    <string name="app_message_00031">密钥生成已成功</string>
+    <string name="app_message_00032">结束</string>
+    <string name="app_message_00033">为使用已变更密钥，请结束KaiserWallet。</string>
+    <string name="app_message_00034">已完成密钥修复准备。</string>
+    <string name="app_message_00035">已完成密钥修复。结束APP。请重启APP。</string>
+    <string name="app_message_00036">所选钱包已删除。</string>
+    <string name="app_message_00037">已更改PIN码信息</string>
+    <string name="app_message_00038">初始化PIN码信息</string>
+    <string name="app_message_00039">已完成钱包生成。</string>
+    <string name="app_message_00040">已完成签名。</string>
+    <string name="app_message_00041">签名失败</string>
+    <string name="app_message_00042">失败传送</string>
+    <string name="app_message_00043">已发送</string>
+    <string name="app_message_00044">已完成认证</string>
+    <string name="app_message_00045">钱包认证失败</string>
+    <string name="app_message_00046">形成了新的交易</string>
+    <string name="app_message_00047">Kaiser Wallet更新介绍</string>
+    <string name="app_message_00048">转至更新</string>
+    <string name="app_message_00049">请在更新后使用。</string>
+    <string name="app_message_00050">通信中。请稍等。</string>
+    <string name="app_message_00051">指纹认证已被激活，但未发现已登录指纹。该应用程序将被终止执行。</string>
+    <string name="app_message_00052">选定协议已删除。</string>
+    <string name="app_message_00053">选定协议删除失败。</string>
+    <string name="app_message_00054">协议地址形式不正确。</string>
+    <string name="app_message_00055">无以太坊钱包。请先生成以太坊钱包地址。</string>
+    <string name="app_message_00056">钱包地址已存在或出现错误。</string>
+    <string name="app_message_00057">协议不存在或形式错误。请确认后重新添加。</string>
+    <string name="app_message_00058">开始密钥生成流程。\n请重新进行卡片接触。</string>
+    <string name="app_message_00059">生成或选择钱包</string>
+    <string name="app_message_00060">连接</string>
+    <string name="app_message_00061">请输入捆绑包背面底部条形码区记录的9个数字。\n（请提前打开捆绑电源。）</string>
+    <string name="app_message_00062">请进行KYC后重试。\n（可利用右上方菜单栏中的\“认证”\）</string>
+    <string name="app_message_00063">请进入\KYC认证\中所填写的邮箱，并在进行\“邮箱认证”\后重试。</string>
+    <string name="app_message_00064">请通过CS@BizBlocks.io咨询。</string>
+    <string name="app_message_00065">请正确输入读卡器号码。</string>
+    <string name="app_message_00066">请在创建KaiserCoin Wallet后重试。</string>
+    <string name="app_message_00067">测试</string>
+    <string name="app_message_00068">初次使用卡片时，PIN码被设置为000000。 此后，可在主菜单中变更PIN码。</string>
+    <string name="app_message_00069">警告）PIN码连续输入错误5次，卡片将不可使用。支付追加费用，可更换新卡。</string>
+    <string name="app_message_00070">请将通讯录权限变更为许可。</string>
+    <!-- NFC Message -->
+    <string name="app_message_nfc_00001">钱包信息由卡片构成。</string>
+    <string name="app_message_nfc_00002">钱包登录中，请Tag卡片。</string>
+    <string name="app_message_nfc_00003">数字签名进行中，请Tag卡片。</string>
+    <string name="app_message_nfc_00004">请Tag卡片。</string>
+    <!-- BLE/NFC Reader -->
+    <string name="app_message_ble_reader_00001">BLE/NFC 读卡器设备</string>
+    <string name="app_message_ble_reader_00002">输入设备序列号</string>
+    <string name="app_message_ble_reader_00003">请勿将蓝牙连接到Android OS上的读卡器设备。 须输入序列号方可连接。</string>
+    <!-- Permission -->
+    <string name="app_permission_setting">设置</string>
+    <string name="app_permission_title_00000">照相机</string>
+    <string name="app_permission_title_00001">照片</string>
+    <string name="app_permission_message_00000">请在设置中直接允许“照相机”权限。</string>
+    <string name="app_permission_message_00001">请在设置中直接允许“照片”权限。</string>
+</resources>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bizblocks.io -->
+    <!-- Dev.sony476 -->
+    <!-- 2018-12-13 -->
+    <string name="app_name">KaiserWallet Кошелек Кайзер</string>
+    <string name="app_name_ble_reader">KaiserWallet (BLE) Кошелек Кайзер </string>
+    <!-- Push Service -->
+    <string name="msg_subscribed">Подписаться на рассылку новостей </string>
+    <string name="msg_token_fmt">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">Новости</string>
+    <!-- FingerPrint -->
+    <string name="application_name">Диалог отпечатка пальца</string>
+    <string name="action_settings">Настройки</string>
+    <string name="cancel">Отмена </string>
+    <string name="use_password">Использовать пароль</string>
+    <string name="sign_in">Логин</string>
+    <string name="ok">OK</string>
+    <string name="password">Пароль</string>
+    <string name="fingerprint_description">Чтобы продолжить подтвердите отпечаток пальца</string>
+    <string name="fingerprint_hint">Сенсорный датчик </string>
+    <string name="password_description">Введите ваш пароль чтобы продолжить </string>
+    <string name="purchase_not_invalidated">Недействительная покупка </string>
+    <string name="fingerprint_not_recognized">Ваш отпечаток не распознан. Повторите попытку</string>
+    <string name="fingerprint_success">Отпечаток принят</string>
+    <string name="new_fingerprint_enrolled_description">Неколько новых отчечатков пальцев было добавленно, пожалуйста введите пароль.</string>
+    <string name="use_fingerprint_in_future">В  дальнейшем используйте отпечак пальцев  </string>
+    <string name="use_fingerprint_to_authenticate_key">Используйте отпечаток для аутентифицирования ключа</string>
+    <!-- App Message -->
+    <string name="app_message_ok">Проверка</string>
+    <string name="app_message_cancel">Отмена</string>
+    <string name="app_message_00001">Создан QR-код</string>
+    <string name="app_message_00002">Сохранено в буфер обмена.</string>
+    <string name="app_message_00003">Сообщение с сервером.</string>
+    <string name="app_message_00004">Вы закончили сообщение с сервером.</string>
+    <string name="app_message_00005">Функция экранной заставки не установлена. Перейдите в Настройки -> Безопасность -> Распознавание отпечатков пальцев для установления распознавания отпечатков пальцев.</string>
+    <string name="app_message_00006">Вы действительно хотите выйти из Kaiser Wallet?</string>
+    <string name="app_message_00007">Ошибка данных подписи</string>
+    <string name="app_message_00008">Слова введены неверно. Повторите попытку.</string>
+    <string name="app_message_00009">Ethereum wallet нет. Пожалуйста, выберите после создания</string>
+    <string name="app_message_00010">Отпечатки пальцев не зарегистрированны. Зарегистрируйте отпечатки пальцев</string>
+    <string name="app_message_00011">Пожалуйста идентифицируйте отпечатки пальцев для KAISER Wallet. Отмена аннулирует KAISER WALLET.</string>
+    <string name="app_message_00012">Время истекло. Запустите программу снова</string>
+    <string name="app_message_00013">При отмене идентификации отпечатков пальцев дальнейшее использовать приложение невозможно. Программа завершиться.</string>
+    <string name="app_message_00014">Неприемлемая карта. Код ошибки</string>
+    <string name="app_message_00015">В вашем кошельке есть монета.</string>
+    <string name="app_message_00016">Информации не существует.</string>
+    <string name="app_message_00017">Пик-код не подходит. Можно повторить попытку %d раз.</string>
+    <string name="app_message_00018">Список слов введен неверно Можно повторить попытку. %d раз.</string>
+    <string name="app_message_00019">Пин код был набран неверно более пяти раз.</string>
+    <string name="app_message_00020">Список слов был набран неверно более пяти раз.</string>
+    <string name="app_message_00021">Эта карта не поддерживается программой. Пожалуйста свяжитесь с нами cs@bizblocks.io</string>
+    <string name="app_message_00022">Карта, которую вы отметили, не является картой Кайзера. Пожалуйста, свяжитесь с нами cs@bizblocks.io</string>
+    <string name="app_message_00023">Правильно установите карту в положение антенны NFC </string>
+    <string name="app_message_00024">Запустите процесс генерации ключей. Прикоснитесь к карте снова</string>
+    <string name="app_message_00025">QR код не распознается.</string>
+    <string name="app_message_00026">Выберите изображение, содержащее QR код</string>
+    <string name="app_message_00027">Вы отметили карточку, которую вы первоначально настроили для информации о кошельке. Вы отметили ее другой картой.</string>
+    <string name="app_message_00028">Отметьте карту еще раз</string>
+    <string name="app_message_00029">Не удалось создать кошелек.</string>
+    <string name="app_message_00030">Вы успешно создали свой кошелек.</string>
+    <string name="app_message_00031">Вы успешно создали ключ.</string>
+    <string name="app_message_00032">Завершение</string>
+    <string name="app_message_00033">Выйдите из Kaiser Wallet, чтобы применить измененный ключ.</string>
+    <string name="app_message_00034">Подготовлен для успешного восстановления ключа </string>
+    <string name="app_message_00035">Восстановление ключа завершено. Закройте приложение. Повторите попытку.</string>
+    <string name="app_message_00036">Выбранный кошелек был удален.</string>
+    <string name="app_message_00037">Информация о пин коде изменена</string>
+    <string name="app_message_00038">Информация о пин-коде была инициализирована.</string>
+    <string name="app_message_00039">Создание кошелька завершено</string>
+    <string name="app_message_00040">Подписание завершено.</string>
+    <string name="app_message_00041">Не удалось подписать.</string>
+    <string name="app_message_00042">Ошибка передачи.</string>
+    <string name="app_message_00043">Передача завершена.</string>
+    <string name="app_message_00044">Проверка завершена.</string>
+    <string name="app_message_00045">Ошибка верификации кошелька.</string>
+    <string name="app_message_00046">Совершенна новая транзакция</string>
+    <string name="app_message_00047">Руководство по обновлению Kaiser Wallet</string>
+    <string name="app_message_00048"> Обновить сейчас </string>
+    <string name="app_message_00049">Используйте после обновления</string>
+    <string name="app_message_00050">В процессе сообщения. Пожалуйства подождите.</string>
+    <string name="app_message_00051">Отпечаток не распознан. Завершение программы.</string>
+    <string name="app_message_00052">Выбранный контакт был удален.</string>
+    <string name="app_message_00053">Выбранный контакт не удалось удалить </string>
+    <string name="app_message_00054">Указанный адрес контакта введен не верно</string>
+    <string name="app_message_00055">Не существующий The Ethereum Wallet. Пожалуйста сначала создайте адрес для The Ethereum Wallet.</string>
+    <string name="app_message_00056">Адрес кошелька уже существует или произошла ошибка.</string>
+    <string name="app_message_00057">Контакт не существует или введен неверный формат.Пожалуйста повторите попытку после подтверждения .</string>
+    <string name="app_message_00058">Процедура генерации ключей началась заново. Пожалуйста коснитесь карты снова.</string>
+    <string name="app_message_00059">Создать или выбрать Wallet</string>
+    <string name="app_message_00060">Соединение</string>
+    <string name="app_message_00061">Введите 9-ти значный штрих код записанный на задней панели Bluetooth NFC reader. Предварительно включите Bluetooth NFC reader   </string>
+    <string name="app_message_00062">После получения подтверждения подлинности от KYC повторите попытку. Для продолжения перейдите в меню и нажмите\'Подтвердит\'</string>
+    <string name="app_message_00063">Пожалуйста, войдите в электронную почту, созданную сертификатом KYC для\'Проверки подлинност\' и повторите попытку.</string>
+    <string name="app_message_00064">Свяжитесь с нами CS@BizBlocks.io</string>
+    <string name="app_message_00065">Пожалуйста введите верный 9-ти значный код указанный на задней панели Bluetooth NFC reader</string>
+    <string name="app_message_00066">Создайте KaiserCoin Wallet и повторите попытку</string>
+    <string name="app_message_00067">Тест</string>
+    <string name="app_message_00068">При первичном использовании карты создан пинкод 0000000. Вы можете изменить код в меню настроек.</string>
+    <string name="app_message_00069">Внимание. Если пинкод изменен более 5 раз подряд дальнейшее использование карты будет невозможно. Вы можете приобрести новую карту.</string>
+    <string name="app_message_00070">Разрешите отправлять вам уведомления в настроках\'контакто\'</string>
+    <!-- NFC Message -->
+    <string name="app_message_nfc_00001">Сконфигурировать информацию кашелька с карты.</string>
+    <string name="app_message_nfc_00002">Ваша карта в процессе регистрации. Отметьте вашу карту. </string>
+    <string name="app_message_nfc_00003">Выполняется цифрования подпись. Отметьте вашу карту.</string>
+    <string name="app_message_nfc_00004">Пометьте вашу карту.</string>
+    <!-- BLE/NFC Reader -->
+    <string name="app_message_ble_reader_00001">BLE/NFC Reader</string>
+    <string name="app_message_ble_reader_00002">Введите ваш S/N девайс S/N девайс</string>
+    <string name="app_message_ble_reader_00003">Не подключайте Bluetooth для чтения на Android OS. Введите ваш S/N девайс.</string>
+    <!-- Permission -->
+    <string name="app_permission_setting">Setting</string>
+    <string name="app_permission_title_00000">Camera</string>
+    <string name="app_permission_title_00001">Picture</string>
+    <string name="app_permission_message_00000">Please allow\'Camer\' permissions directly in Settings.</string>
+    <string name="app_permission_message_00001">Please allow\"Photo\' permission directly in Settings.</string>
+</resources>

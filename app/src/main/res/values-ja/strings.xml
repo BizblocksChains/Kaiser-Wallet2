@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bizblocks.io -->
+    <!-- Dev.sony476 -->
+    <!-- 2018-12-13 -->
+    <string name="app_name">KaiserWallet2</string>
+    <string name="app_name_ble_reader">KaiserWallet2 (BLE)</string>
+    <!-- Push Service -->
+    <string name="msg_subscribed">ニューストピック購読</string>
+    <string name="msg_token_fmt">InstanceID Token: %s</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">ニュース</string>
+    <!-- FingerPrint -->
+    <string name="application_name">指紋ダイアログ</string>
+    <string name="action_settings">設定</string>
+    <string name="cancel">キャンセル</string>
+    <string name="use_password">パスワードを使用</string>
+    <string name="sign_in">ログイン</string>
+    <string name="ok">確認</string>
+    <string name="password">パスワード</string>
+    <string name="fingerprint_description">指紋を確認して継続します。</string>
+    <string name="fingerprint_hint">タッチセンサー</string>
+    <string name="password_description">お預かりのパスワードを入力して継続します。</string>
+    <string name="purchase_not_invalidated">購入無効</string>
+    <string name="fingerprint_not_recognized">指紋が認識されません。再試行してください。</string>
+    <string name="fingerprint_success">指紋が認識されました。</string>
+    <string name="new_fingerprint_enrolled_description">このデバイスに新しい指紋が追加されましたので、パスワードの入力が必要です。</string>
+    <string name="use_fingerprint_in_future">今後指紋を使用</string>
+    <string name="use_fingerprint_to_authenticate_key">use_fingerprint_to_authenticate_key</string>
+    <!-- App Message -->
+    <string name="app_message_ok">確認</string>
+    <string name="app_message_cancel">キャンセル</string>
+    <string name="app_message_00001">QRCodeを生成しました。</string>
+    <string name="app_message_00002">クリップボードに保存しました。</string>
+    <string name="app_message_00003">サーバーとの通信中です。</string>
+    <string name="app_message_00004">サーバーとの通信が終わりました。</string>
+    <string name="app_message_00005">画面保護機能が設定していません。設定->セキュリティ->指紋認証に入って、指紋認識を設定してください。</string>
+    <string name="app_message_00006">KaiserWalletを終了しますか？</string>
+    <string name="app_message_00007">署名データ誤り</string>
+    <string name="app_message_00008">誤入力の単語があります。再度入力してください。</string>
+    <string name="app_message_00009">イーサリアムウォレットはありません。生成後、選択してください。</string>
+    <string name="app_message_00010">登録された指紋はありません。先に指紋登録してください。</string>
+    <string name="app_message_00011">KaiserWalletを遂行するため、指紋認識してください。キャンセルなら、KaiserWalletを終了します。</string>
+    <string name="app_message_00012">時間を超過しました。プログラムを再度遂行してください。</string>
+    <string name="app_message_00013">指紋認識をキャンセルすると、アプりを使用できません。プログラムを終了します。</string>
+    <string name="app_message_00014">使用不可能のカードです。エラーコード</string>
+    <string name="app_message_00015">ウォレットの内に該当コインがあります。</string>
+    <string name="app_message_00016">情報は存在しません。</string>
+    <string name="app_message_00017">PINコードは一致しません。再試行は%d回目まで可能です。</string>
+    <string name="app_message_00018">ワードリストが一致しません。再試行は%d回目まで可能です。</string>
+    <string name="app_message_00019">PINコードを5回以上間違いました。</string>
+    <string name="app_message_00020">ワードリストを5回以上間違いました。</string>
+    <string name="app_message_00021">プログラムを載せていないカードです。メール(cs@bizblocks.io)にてお問合せ下さい。</string>
+    <string name="app_message_00022">タグしたカードはKaiserカードではありません。</string>
+    <string name="app_message_00023">NFCアンテナ位置に正確に当ててください。</string>
+    <string name="app_message_00024">キー生成の手順を開始します。カードを再度タグしてください。</string>
+    <string name="app_message_00025">QRCODEは認識できません。</string>
+    <string name="app_message_00026">QRCODEを含むイメージを選択してください。</string>
+    <string name="app_message_00027">最初にウォレットの情報を構成したカードをタップしてください。他のカードでタグしてください。</string>
+    <string name="app_message_00028">カードを再度タグしてください。</string>
+    <string name="app_message_00029">ウォレット生成に失敗しました。</string>
+    <string name="app_message_00030">ウォレットを成功的に生成しました。</string>
+    <string name="app_message_00031">キーを成功的に生成しました。</string>
+    <string name="app_message_00032">終了</string>
+    <string name="app_message_00033">変更されたキーの適用に向けたKaiser Walletを終了します。</string>
+    <string name="app_message_00034">キー復旧を成功的に準備しました。</string>
+    <string name="app_message_00035">キー復旧が完了しました。アプりを終了します。再度遂行してください。</string>
+    <string name="app_message_00036">選択したウォレットを削除しました。</string>
+    <string name="app_message_00037">PINコードを変更しました。</string>
+    <string name="app_message_00038">PINコードの情報を初期化しました。</string>
+    <string name="app_message_00039">ウォレット作りを完了しました。</string>
+    <string name="app_message_00040">署名を完了しました。</string>
+    <string name="app_message_00041">署名に失敗しました。</string>
+    <string name="app_message_00042">転送に失敗しました。</string>
+    <string name="app_message_00043">転送が完了しました。</string>
+    <string name="app_message_00044">認証を完了しました。</string>
+    <string name="app_message_00045">ウォレット認識に失敗しました。</string>
+    <string name="app_message_00046">新しい取引が発生しました。</string>
+    <string name="app_message_00047">Kaiser Walletのアップデートのご案内</string>
+    <string name="app_message_00048">アップデートのショートカット</string>
+    <string name="app_message_00049">アップデートの後、ご利用ください。</string>
+    <string name="app_message_00050">通信中です。少々お待ちください。</string>
+    <string name="app_message_00051">指紋認識は活性化されていますが、登録された指紋はありません。プログラムを終了します。</string>
+    <string name="app_message_00052">選択されたコントラクトを削除しました。</string>
+    <string name="app_message_00053">選択されたコントラクトの削除に失敗しました。</string>
+    <string name="app_message_00054">コントラクトのアドレス形式は正確ではありません。</string>
+    <string name="app_message_00055">イーサリアムウォレットはありません。先にイーサリアムウォレットのアドレスを生成してください。</string>
+    <string name="app_message_00056">ウォレットアドレスは既に存在しているか、或いはエラーが発生しました。</string>
+    <string name="app_message_00057">コントラクトは存在していないか、或いは形式は正しくないです。確認した後、再度追加してください。</string>
+    <string name="app_message_00058">キー生成の手続きを始めいます。\nカードを再度タグしてください。</string>
+    <string name="app_message_00059">ウォレットを生成又は選択</string>
+    <string name="app_message_00060">接続</string>
+    <string name="app_message_00061">BLE/NFCリーダー裏のバーコード領域に記録された9桁の数字を入力してください。\n（事前にリーダーの電源を入れてください。）</string>
+    <string name="app_message_00062">KYC認証を進めた後、再度試してください。\n（右上側のメニューにある\「認証」\を通じて行われます。）</string>
+    <string name="app_message_00063">\KYC認証\で作成したメールに接続し、\「メール認証」\を進めた後、再度試してください。</string>
+    <string name="app_message_00064">CS@BizBlocks.ioまでお問い合わせください。</string>
+    <string name="app_message_00065">リーダーの番号を正確に入力してください。</string>
+    <string name="app_message_00066">KaiserCoin Walletを生成して再度試してください。</string>
+    <string name="app_message_00067">テスト</string>
+    <string name="app_message_00068">カードを最初に使用する時、ピィン番号は000000で設定されます。後でメインメニューでピィンの変更ができます。</string>
+    <string name="app_message_00069">警告）ピィン番号を連結5回以上間違えると、カードは使用できません。追加費用を支払って新しいカードに切り替えることができます。</string>
+    <string name="app_message_00070">連絡先の権限を許可に変更してください。</string>
+    <!-- NFC Message -->
+    <string name="app_message_nfc_00001">カードからウォレット情報を設定します。</string>
+    <string name="app_message_nfc_00002">ウォレットが登録されています。カードをタグしてください。</string>
+    <string name="app_message_nfc_00003">デジタル署名が進行中です。カードをタグしてください。</string>
+    <string name="app_message_nfc_00004">カードをタグしてください。</string>
+    <!-- BLE/NFC Reader -->
+    <string name="app_message_ble_reader_00001">BLE/NFCリーダー</string>
+    <string name="app_message_ble_reader_00002">デバイスのS/Nを入力してください。</string>
+    <string name="app_message_ble_reader_00003">アンドロイドOSのリーダーデバイスにブルートォースを接続することをご遠慮ください。接続にはS/Nを入力する必要があります。</string>
+    <!-- Permission -->
+    <string name="app_permission_setting">設定</string>
+    <string name="app_permission_title_00000">カメラ</string>
+    <string name="app_permission_title_00001">写真</string>
+    <string name="app_permission_message_00000">設定で直接に「カメラ」の権限を許してください。</string>
+    <string name="app_permission_message_00001">設定で直接に「写真」の権限を許してください。</string>
+</resources>
